@@ -15,9 +15,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	Wen man an einem Feature arbeitet, dass man später wieder zum Master Branch mergen kann oder wenn man eine Experimentelle ersion entwickelt bspw. 	Sprachadaptionen.
-
+	Wen man an einem Feature arbeitet, dass man später wieder zum Master Branch mergen kann oder wenn man eine 	Experimentelle ersion entwickelt bspw. 	Sprachadaptionen.
+	
 How do the diagrams help you visualize the branch structure?
+
+	Es hilft zu erkennen welche Parents die jeweiligen Branches haben. Es zeigt auch auf welche Branches in 	einer bspw. experimentelen Version fehlen.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
