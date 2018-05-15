@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Das geht immer auf die Parents zurück. Nachdem mergen mit einem merge konflikt und behobenem Code ist das 	resultat ein commit der sichtbar aus 2 branches besteht aber nur im branch existiert zu dem man gemerged 	hat. git merge result-branch new-code-branch
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
