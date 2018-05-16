@@ -1,16 +1,18 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
-    Wenn mehrere Personen miteinander arbeiten.
+    	Wenn mehrere Personen miteinander arbeiten.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    	Wenn mehr als eines Person mit dem Remote arbeitet und Änderungen pusht, könnte es öfter zu Konflikten kommen die man wiederum 	lösen muss. Daher muss man zuerst sowieso zuerst ein pull ausführen damit man die neusten Änderungen in seinem local 		repository hat.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    	Ein 'clone' ist eine exakte copy eines repositorys.
+	Ein 'fork' ist ein Github specifischer 'clone' mit den Eigenschaften das man das Ursprüchliche repository sieht.
+	Ein 'branch' ist ein Zweig innerhalb eines repositorys.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
